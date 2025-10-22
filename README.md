@@ -1,6 +1,7 @@
 # PE_II_EXAMEN_PRACTIC0
 
 Examen Práctica Unidad II - PETI Renzo Fernando Loyola Vilca 22-10-25
+https://github.com/renzoloyola/PE_II_EXAMEN_PRACTIC0.git
 
 Se añadio la vista en vivo de colaboradores activos en el tablero
 <img width="1261" height="521" alt="image" src="https://github.com/user-attachments/assets/3c62ea3b-bccb-4b5e-b6ed-07b38ac3e079" />
